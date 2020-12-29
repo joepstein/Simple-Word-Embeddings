@@ -6,6 +6,7 @@
 - |- data-science-blog-word-embeddings-2.ipynb
 - |- data-science-blog-word-embeddings-3.ipynb
 - |- data-science-blog-word-embeddings-final.ipynb
+- |- data-science-blog-word-embeddings-final.html
 
 ## Introduction
 I wanted to share with people a very straightforward implementation of Word2Vec, to achieve not so straightforward insights. It's safe to say, there's an overwhelming amount of data in this world, and, even if there wasn't, data naturally multiplies with context and multiple perspectives.
